@@ -8,33 +8,33 @@
 
 ### ノイズ
 
-![結果](Result1.gif)
+![結果](Movie_001.gif)
 
 ### FBM
 
-![結果](Result2.gif)
+![結果](Movie_002.gif)
 
 ### パターン
 
-![結果](Result3.png)
+![結果](MyResult3.png)
 
 ### ボロノイ図
 
-![結果](Result4.gif)
+![結果](Movie_003.gif)
 
 ### 炎
 
-![結果](Result5.gif)
+![結果](Movie_004.gif)
 
 ### ディゾルブ
 
-![結果](Result6.gif)
+![結果](Movie_005.gif)
 
 ### あなたの考えた素敵なシェーダー
 
-![結果](Result7.gif)
+![結果](Movie_006.gif)
 
--- 工夫した点：xxx
+-- 工夫した点：テクスチャを張ったまま模様が浮き出る仕様にしました。
 
 ## 進め方
 
